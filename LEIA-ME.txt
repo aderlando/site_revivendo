@@ -1,0 +1,1 @@
+Abra index.html. Páginas separadas: instituto.html, projetos.html, cadastro.html e contato.html. O cadastro usa LocalStorage para rascunho não sensível; limpar apaga o rascunho. Todos os botões do formulário têm hover. Não há botão de informações/modal.
